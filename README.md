@@ -514,3 +514,4 @@ Esta versão da landing page foi simplificada removendo:
 **Desenvolvido para Leal Engenharia** 🌞
 
 *Transformando luz solar em economia e sustentabilidade.*
+
